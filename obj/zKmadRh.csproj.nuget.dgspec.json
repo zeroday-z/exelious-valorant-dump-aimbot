@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\D e n i\\Documents\\!ValoAIm\\zKmadRh.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\D e n i\\Documents\\!ValoAIm\\zKmadRh.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\D e n i\\Documents\\!ValoAIm\\zKmadRh.csproj",
+        "projectName": "Exelious Loader",
+        "projectPath": "C:\\Users\\D e n i\\Documents\\!ValoAIm\\zKmadRh.csproj",
+        "packagesPath": "C:\\Users\\D e n i\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\D e n i\\Documents\\!ValoAIm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\D e n i\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

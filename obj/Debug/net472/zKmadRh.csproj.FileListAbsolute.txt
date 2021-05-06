@@ -1,0 +1,2 @@
+C:\Users\D e n i\Documents\!ValoAIm\obj\Debug\net472\zKmadRh.csprojAssemblyReference.cache
+C:\Users\D e n i\Documents\!ValoAIm\obj\Debug\net472\zKmadRh.csproj.CoreCompileInputs.cache
